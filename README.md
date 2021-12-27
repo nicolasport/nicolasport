@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nicolasport/nicolasport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +15,11 @@ Here are some ideas to get you started:
 
 ```javascript
 const Nico = {
-    code: [Javascript, TypeScript, HTML, CSS, SASS, Python],
-    tools: [React, Redux, Styled_Components, Node],
+    code: [Javascript, TypeScript, HTML, CSS, Sass, Python],
+    tools: [React, Redux, Styled_Components, Express, MongoDB, ..rest],
     certified: {
-        inProgress: 'dHouse :arrow_right: FullStack',
-        completed: 'Acamica :arrow_right: FrontEnd React'},
+        inProgress: DHouse -> 'FullStack'[React, Express, MongoDB],
+        completed: Acamica -> 'FrontEnd React'},
     hobbies: {
         sport: ':tennis: Padel',
         music: ':guitar: Bass Player'}
