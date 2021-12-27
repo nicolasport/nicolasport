@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+const Nico = {
+    code: [Javascript, TypeScript, HTML, CSS, SASS, Python],
+    tools: [React, Redux, Styled_Components, Node],
+    certified: {
+        inProgress: 'dHouse -> FullStack',
+        completed: 'Acamica -> FrontEnd React'},
+    hobbies: {
+        sport: 'Padel',
+        music: 'Bass Player'}
+    goals: {
+        0: 'Be better than yesterday',
+        1: 'Understand javascript and react thoroughly',
+        2: 'Understand and apply design patterns'
+    }
+
+}
+```
