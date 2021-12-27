@@ -31,10 +31,6 @@ const Nico = {
         2: 'Understand and apply design patterns'
         3: 'Keep learning code'
     }
-    reach_me: {
-        Instagram: `[@nicolasportesio](https://www.instagram.com/nicolasportesio/)`
-    }
-
 }
 ```
 <br>
