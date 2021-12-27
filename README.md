@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
+```javascript
 const Nico = {
     code: [Javascript, TypeScript, HTML, CSS, SASS, Python],
     tools: [React, Redux, Styled_Components, Node],
