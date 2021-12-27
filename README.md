@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ```javascript
 const Nico = {
     code: [Javascript, TypeScript, HTML, CSS, Sass, Python],
-    tools: [React, Redux, Styled_Components, Express, MongoDB, ..Rest],
+    tools: [React, Redux, Styled_Components, Express, MongoDB, ...rest],
     certified: {
         inProgress: DHouse -> 'FullStack'[React, Express, MongoDB],
         completed: Acamica -> 'FrontEnd React'},
