@@ -26,9 +26,10 @@ const Nico = {
         sport: ':tennis: Padel',
         music: ':guitar: Bass Player'}
     goals: {
-        0: ![image](https://user-images.githubusercontent.com/3528102/147493372-db68539f-5479-45fd-8c38-442f2c26da1a.png) 'Be better than yesterday',
-        1: ':telescope: Get to know javascript better and react in depth',
-        2: ':telescope: Understand and apply design patterns'
+        0: 'Be better than yesterday',
+        1: 'Get to know javascript better and react in depth',
+        2: 'Understand and apply design patterns'
+        3: 'Keep learning code'
     }
     reach_me: {
         Instagram: `[@nicolasportesio](https://www.instagram.com/nicolasportesio/)`
