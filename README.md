@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://user-images.githubusercontent.com/3528102/147500787-a65b01b7-b799-46ef-abc2-2caf0dace187.png" stye="display:absolute;z-index:-1" height="auto" width="100%">
+
 ```javascript
 const Nico = {
     code: [Javascript, TypeScript, HTML, CSS, Sass, Python],
