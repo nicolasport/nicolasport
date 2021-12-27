@@ -26,7 +26,7 @@ const Nico = {
         sport: ':tennis: Padel',
         music: ':guitar: Bass Player'}
     goals: {
-        0: ":recycle:" 'Be better than yesterday',
+        0: :recycle::recycle::recycle: 'Be better than yesterday',
         1: ':telescope: Get to know javascript better and react in depth',
         2: ':telescope: Understand and apply design patterns'
     }
