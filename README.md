@@ -36,3 +36,6 @@ const Nico = {
 
 }
 ```
+>📫 How to reach me:
+>Instagram: [@nicolasportesio](https://www.instagram.com/nicolasportesio/)
+>LinkedIn: Page(https://www.linkedin.com/in/nicolas-portesio-7350a0210)
