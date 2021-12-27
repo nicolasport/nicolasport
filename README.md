@@ -21,8 +21,8 @@ const Nico = {
         inProgress: DHouse -> 'FullStack'[React, Express, MongoDB],
         completed: Acamica -> 'FrontEnd React'},
     hobbies: {
-        sport: ':tennis: Padel',
-        music: ':guitar: Bass Player'},
+        sport: 'Padel',
+        music: 'Bass Player'},
     goals: {
         0: 'Be better than yesterday',
         1: 'Get to know javascript better and react in depth',
