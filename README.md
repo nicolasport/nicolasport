@@ -39,9 +39,8 @@ const Nico = {
 <br>
 📫 How to reach me:
 
-
 Instagram <img src="https://user-images.githubusercontent.com/3528102/147491839-94bf92cb-0195-4c2a-9850-06569bee4178.png" style="color:white" width="15" height="15">
 : [@nicolasportesio](www.instagram.com/nicolasportesio)
 <br>
-LinkedIn: [@page](www.linkedin.com/in/nicolas-portesio-7350a0210)
+LinkedIn <img src="https://user-images.githubusercontent.com/3528102/147491944-8fd848a2-5cb2-40d0-b93e-b12a50a9beed.png" style="color:white" width="15" height="15">: [@page](www.linkedin.com/in/nicolas-portesio-7350a0210)
 
