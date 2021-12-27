@@ -43,17 +43,19 @@ const Nico = {
 
 <br>
 
-<a href="www.instagram.com/nicolasportesio">
-    <img src="https://user-images.githubusercontent.com/3528102/147491839-94bf92cb-0195-4c2a-9850-06569bee4178.png" width="50" height="50">
+<a href="mailto:nicolas.portesio.7@gmail.com">
+    <img src="https://user-images.githubusercontent.com/3528102/147492695-d60d2a23-005e-4f1d-b8b7-37eb3afebb7e.png" width="50" height="50">
 </a>
 
 <a href="www.linkedin.com/in/nicolas-portesio-7350a0210">
     <img src="https://user-images.githubusercontent.com/3528102/147491944-8fd848a2-5cb2-40d0-b93e-b12a50a9beed.png" width="50" height="50">
 </a>
 
-<a href="mailto:nicolas.portesio.7@gmail.com">
-    <img src="https://user-images.githubusercontent.com/3528102/147492695-d60d2a23-005e-4f1d-b8b7-37eb3afebb7e.png" width="50" height="50">
+<a href="www.instagram.com/nicolasportesio">
+    <img src="https://user-images.githubusercontent.com/3528102/147491839-94bf92cb-0195-4c2a-9850-06569bee4178.png" width="50" height="50">
 </a>
+
+
 
 
 
