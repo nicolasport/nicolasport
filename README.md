@@ -20,15 +20,18 @@ const Nico = {
     code: [Javascript, TypeScript, HTML, CSS, SASS, Python],
     tools: [React, Redux, Styled_Components, Node],
     certified: {
-        inProgress: 'dHouse -> FullStack',
-        completed: 'Acamica -> FrontEnd React'},
+        inProgress: 'dHouse :arrow_right: FullStack',
+        completed: 'Acamica :arrow_right: FrontEnd React'},
     hobbies: {
-        sport: 'Padel',
-        music: 'Bass Player'}
+        sport: ':tennis: Padel',
+        music: ':guitar: Bass Player'}
     goals: {
-        0: 'Be better than yesterday',
-        1: 'Understand javascript and react thoroughly',
-        2: 'Understand and apply design patterns'
+        0: ':recycle: Be better than yesterday',
+        1: ':telescope: Get to know javascript better and react in depth',
+        2: ':telescope: Understand and apply design patterns'
+    }
+    reach_me: {
+        Instagram: @nicolasportesio[https://www.instagram.com/nicolasportesio/]
     }
 
 }
