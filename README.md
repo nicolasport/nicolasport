@@ -40,5 +40,6 @@ const Nico = {
 📫 How to reach me:
 
 Instagram: [@nicolasportesio](www.instagram.com/nicolasportesio)
+<br>
 LinkedIn: [@page](www.linkedin.com/in/nicolas-portesio-7350a0210)
 
