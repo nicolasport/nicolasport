@@ -22,7 +22,7 @@ const Nico = {
         completed: Acamica -> 'FrontEnd React'},
     hobbies: {
         sport: ':tennis: Padel',
-        music: ':guitar: Bass Player'}
+        music: ':guitar: Bass Player'},
     goals: {
         0: 'Be better than yesterday',
         1: 'Get to know javascript better and react in depth',
