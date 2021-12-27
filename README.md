@@ -31,7 +31,7 @@ const Nico = {
         2: ':telescope: Understand and apply design patterns'
     }
     reach_me: {
-        Instagram: @nicolasportesio[https://www.instagram.com/nicolasportesio/]
+        Instagram: [@nicolasportesio](https://www.instagram.com/nicolasportesio/)
     }
 
 }
