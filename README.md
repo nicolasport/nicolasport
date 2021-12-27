@@ -40,7 +40,7 @@ const Nico = {
 📫 How to reach me:
 
 
-Instagram <img src="https://user-images.githubusercontent.com/3528102/147491615-803f60c0-c860-4d9e-9a89-07d35d995655.png" width="10" height="10">
+Instagram <img src="https://user-images.githubusercontent.com/3528102/147491615-803f60c0-c860-4d9e-9a89-07d35d995655.png" style="color:white" width="20" height="20">
 : [@nicolasportesio](www.instagram.com/nicolasportesio)
 <br>
 LinkedIn: [@page](www.linkedin.com/in/nicolas-portesio-7350a0210)
