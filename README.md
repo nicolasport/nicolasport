@@ -20,8 +20,10 @@ const Nico = {
     code: [Javascript, TypeScript, HTML, CSS, Sass, Python],
     tools: [React, Redux, Styled_Components, Express, MongoDB, ...rest],
     certified: {
-        inProgress: DHouse -> 'FullStack'[React, Express, MongoDB],
-        completed: Acamica -> 'FrontEnd React'},
+        completed: {
+            Acamica: 'FrontEnd React'},
+            DHouse: 'FullStack'[React, Express, MongoDB]
+        }
     hobbies: {
         sport: 'Padel',
         music: 'Bass Player'},
